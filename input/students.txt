@@ -1,6 +1,15 @@
-### write your own data like in example below
+
     Alice,85
     Bob,90
     Charlie,abc
     David,78
     Eve,95
+    John,-5
+    Mike,150
+    Sara,88
+    Tom,100
+    Anna,0
+    Leo,73
+    Chris,91
+    InvalidLine
+    Kate,85

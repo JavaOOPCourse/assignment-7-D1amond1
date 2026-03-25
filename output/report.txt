@@ -1,0 +1,14 @@
+Average: 78.5
+Highest: Tom - 100
+
+Sorted Students:
+Tom - 100
+Eve - 95
+Chris - 91
+Bob - 90
+Sara - 88
+Alice - 85
+Kate - 85
+David - 78
+Leo - 73
+Anna - 0
